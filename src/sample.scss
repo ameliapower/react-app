@@ -1,0 +1,10 @@
+$buttonWidth: 120px;
+
+.button{
+	background-color: slategray;
+	color: #fff;
+	font-weight: 700;
+	font-size: 24px;
+	width: $buttonWidth;
+}
+//todo: play with cssModules instead
